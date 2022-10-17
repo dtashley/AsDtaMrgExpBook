@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:file-as="Sindermann, Anke" opf:role="aut">Anke Sindermann, David Ashley</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:title>Three Attorneys and a Wedding</dc:title>
+    <meta content="1.9.20" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2022-10-29</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:35973203-a62d-487d-8a6b-321d7b612e49</dc:identifier>
+    <meta name="cover" content="cover_image.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="AsDtaMrgExpBookStyle.css" href="Styles/AsDtaMrgExpBookStyle.css" media-type="text/css"/>
+    <item id="cover_image.jpg" href="Images/cover_image.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_01.xhtml" href="Text/Chapter_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_02.xhtml" href="Text/Chapter_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_03.xhtml" href="Text/Chapter_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_04.xhtml" href="Text/Chapter_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_05.xhtml" href="Text/Chapter_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_06.xhtml" href="Text/Chapter_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_07.xhtml" href="Text/Chapter_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_08.xhtml" href="Text/Chapter_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_09.xhtml" href="Text/Chapter_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_10.xhtml" href="Text/Chapter_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_11.xhtml" href="Text/Chapter_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
+    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Preface.xhtml" href="Text/Preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-index.css" href="Styles/sgc-index.css" media-type="text/css"/>
+    <item id="Index.xhtml" href="Text/Index.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Preface.xhtml"/>
+    <itemref idref="Chapter_01.xhtml"/>
+    <itemref idref="Chapter_02.xhtml"/>
+    <itemref idref="Chapter_03.xhtml"/>
+    <itemref idref="Chapter_04.xhtml"/>
+    <itemref idref="Chapter_05.xhtml"/>
+    <itemref idref="Chapter_06.xhtml"/>
+    <itemref idref="Chapter_07.xhtml"/>
+    <itemref idref="Chapter_08.xhtml"/>
+    <itemref idref="Chapter_09.xhtml"/>
+    <itemref idref="Chapter_10.xhtml"/>
+    <itemref idref="Chapter_11.xhtml"/>
+    <itemref idref="Index.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="index" title="Index" href="Text/Index.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
+  </guide>
+</package>
