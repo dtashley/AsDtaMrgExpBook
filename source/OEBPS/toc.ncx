@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:35973203-a62d-487d-8a6b-321d7b612e49"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Three Attorneys and a Wedding</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="Text/Preface.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Chapter 1: Detroit, Many Moons Ago</text>
+      </navLabel>
+      <content src="Text/Chapter_01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Chapter 2: Oktoberfest (This is Where It Starts)</text>
+      </navLabel>
+      <content src="Text/Chapter_02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Chapter 3: People Can't Drive Stick Shifts Anymore (Talking About Everything Under the Sun)</text>
+      </navLabel>
+      <content src="Text/Chapter_03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Chapter 4: Turks and Such (We're Not Made for the Dating World)</text>
+      </navLabel>
+      <content src="Text/Chapter_04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Chapter 5: COVID Sucks (Summer Plans Squashed)</text>
+      </navLabel>
+      <content src="Text/Chapter_05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Chapter 6: Friends with Benefits (What If?)</text>
+      </navLabel>
+      <content src="Text/Chapter_06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Chapter 7: Third Time is the Charm (Summer, 2022)</text>
+      </navLabel>
+      <content src="Text/Chapter_07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Chapter 8: Certifiably Crazy or Proposal in PDF</text>
+      </navLabel>
+      <content src="Text/Chapter_08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Chapter 9: I Should Have Gone to Law School</text>
+      </navLabel>
+      <content src="Text/Chapter_09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Chapter 10: Vegas ...</text>
+      </navLabel>
+      <content src="Text/Chapter_10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Chapter 11: The Adventure Begins (I-130 Submission)</text>
+      </navLabel>
+      <content src="Text/Chapter_11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="Text/Index.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
