@@ -52,11 +52,11 @@ computer tools that were used by the authors.
 ### *Windows*
 
 1. Install *Sigil*.
- * [Sigil Home Page](https://sigil-ebook.com/) (as of 10/2022).
- * [Sigil Download Page](https://sigil-ebook.com/sigil/download/) (as of 10/2022).
-1. Install *Amazon Kindle Previewer*.
+ * [Sigil Home Page](https://sigil-ebook.com/) (as of 11/2022).
+ * [Sigil Download Page](https://sigil-ebook.com/sigil/download/) (as of 11/2022).
+2. Install *Amazon Kindle Previewer*.
  * [Amazon Kindle Previewer Description and Download Page](https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011) (as of 10/2022).
-1. Install the command-line version of *7-Zip*.
+3. Install the command-line version of *7-Zip*.
  * [7-Zip Home Page](https://www.7-zip.org/) (as of 10/2022).
  * [7-Zip Download Page](https://www.7-zip.org/download.html) (as of 10/2022).
  * The command-line version of 7-Zip is an executable file named *7za.exe*
@@ -66,7 +66,11 @@ the *C:\Windows\System32* folder.
 
 ### *MacOS*
 
-TBD.
+1. Install *Sigil*.
+ * [Sigil Home Page](https://sigil-ebook.com/) (as of 11/2022).
+ * [Sigil Download Page](https://sigil-ebook.com/sigil/download/) (as of 11/2022).
+2. Install *Amazon Kindle Previewer*.
+ * [Amazon Kindle Previewer Description and Download Page](https://www.amazon.com/Kindle-Previewer/b?ie=UTF8&node=21381691011) (as of 10/2022).
 
 
 ## Work Instructions / Procedures / Checklists
@@ -79,19 +83,21 @@ TBD.
 by the fact that *Sigil* works with *EPUB* files only.
 * The *EPUB* file itself is not under version control.
 
-1. Delete the existing *asdtamrgexpbook.epub* file.  (*Note:* on *Windows*,
+1. Delete the existing *asdtamrgexpbook.epub* file.  (*Note:* On *Windows*,
    this and the following step are accomplished by the *win_epub_remake.bat*
-   batch file.)
+   batch file. On *Mac*, this and the following step are accomplished by the
+   *mac_epub_remake.sh* shell script)
 1. Zip *source* directory content into an *asdtamrgexpbook.epub*
-   file.  (*Note:* on *Windows*,
-   this and the preceding step are accomplished by the *win_epub_remake.bat*
-   batch file.)
+   file.  (*Note:* On *Windows*, this and the preceding step are accomplished
+   by the *win_epub_remake.bat* batch file. On *Mac*, this and the following 
+   step are accomplished by the *mac_epub_remake.sh* shell script)
 1. Edit the *asdtamrgexpbook.epub* file as desired using *Sigil*.
 1. Unzip the *asdtamrgexpbook.epub* file, overwriting all local existing
    files corresponding to files in the archive.  (In *Windows* with
    *7-Zip* installed, an easy way to do this is to right-click on the
    *asdtamrgexpbook.epub* file, choose *7-Zip*->*Extract here*, then
-   *Overwrite all*.)
+   *Overwrite all*. On Mac, use the *unzip* command line tool, with
+   *Replace All*.)
 1. If any files were added in *asdtamrgexpbook.epub* using *Sigil*,
    these files are now directly in the sandbox, and may need to be
    added to *Git*.
@@ -107,13 +113,14 @@ by the fact that *Sigil* works with *EPUB* files only.
 ### Non-Release Modification, Using *Sigil* for Checking Only
 
 1. Edit the sandbox files as desired.
-1. Delete the existing *asdtamrgexpbook.epub* file.  (*Note:* on *Windows*,
+1. Delete the existing *asdtamrgexpbook.epub* file.  (*Note:* On *Windows*,
    this and the following step are accomplished by the *win_epub_remake.bat*
-   batch file.)
+   batch file. On *Mac*, this and the following step are accomplished by the
+   *mac_epub_remake.sh* shell script)
 1. Zip *source* directory content into an *asdtamrgexpbook.epub*
-   file.  (*Note:* on *Windows*,
-   this and the preceding step are accomplished by the *win_epub_remake.bat*
-   batch file.)
+   file.  (*Note:* On *Windows*, this and the preceding step are accomplished
+   by the *win_epub_remake.bat* batch file. On *Mac*, this and the following 
+   step are accomplished by the *mac_epub_remake.sh* shell script)
 1. Open the *asdtamrgexpbook.epub* file using *Sigil*.  Correct any
    warnings as desired.  If there are no warnings, proceed to *Git*
    add and commit.  If there are warnings and these are corrected
@@ -122,7 +129,8 @@ by the fact that *Sigil* works with *EPUB* files only.
    files corresponding to files in the archive.  (In *Windows* with
    *7-Zip* installed, an easy way to do this is to right-click on the
    *asdtamrgexpbook.epub* file, choose *7-Zip*->*Extract here*, then
-   *Overwrite all*.)
+   *Overwrite all*. On Mac, use the *unzip* command line tool, with
+   *Replace All*.)
 1. If any files were added in *asdtamrgexpbook.epub* using *Sigil*,
    these files are now directly in the sandbox, and may need to be
    added to *Git*.
