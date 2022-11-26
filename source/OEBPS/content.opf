@@ -14,6 +14,7 @@
     <item id="AsDtaMrgExpBookStyle.css" href="Styles/AsDtaMrgExpBookStyle.css" media-type="text/css"/>
     <item id="cover_image.jpg" href="Images/cover_image.jpg" media-type="image/jpeg"/>
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
     <item id="Chapter_01.xhtml" href="Text/Chapter_01.xhtml" media-type="application/xhtml+xml"/>
     <item id="Chapter_02.xhtml" href="Text/Chapter_02.xhtml" media-type="application/xhtml+xml"/>
     <item id="Chapter_03.xhtml" href="Text/Chapter_03.xhtml" media-type="application/xhtml+xml"/>
@@ -25,8 +26,8 @@
     <item id="Chapter_09.xhtml" href="Text/Chapter_09.xhtml" media-type="application/xhtml+xml"/>
     <item id="Chapter_10.xhtml" href="Text/Chapter_10.xhtml" media-type="application/xhtml+xml"/>
     <item id="Chapter_11.xhtml" href="Text/Chapter_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter_12.xhtml" href="Text/Chapter_12.xhtml" media-type="application/xhtml+xml"/>
     <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
-    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
     <item id="Preface.xhtml" href="Text/Preface.xhtml" media-type="application/xhtml+xml"/>
     <item id="sgc-index.css" href="Styles/sgc-index.css" media-type="text/css"/>
     <item id="Index.xhtml" href="Text/Index.xhtml" media-type="application/xhtml+xml"/>
@@ -46,10 +47,11 @@
     <itemref idref="Chapter_09.xhtml"/>
     <itemref idref="Chapter_10.xhtml"/>
     <itemref idref="Chapter_11.xhtml"/>
+    <itemref idref="Chapter_12.xhtml"/>
     <itemref idref="Index.xhtml"/>
   </spine>
   <guide>
-    <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
     <reference type="index" title="Index" href="Text/Index.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
   </guide>
 </package>

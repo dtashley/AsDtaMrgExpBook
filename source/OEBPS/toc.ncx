@@ -5,7 +5,7 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
     <meta name="dtb:uid" content="urn:uuid:35973203-a62d-487d-8a6b-321d7b612e49"/>
-    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:depth" content="4"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
@@ -60,32 +60,398 @@
         <text>Chapter 7: Third Time is the Charm (Summer, 2022)</text>
       </navLabel>
       <content src="Text/Chapter_07.xhtml"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>We're Back in Business</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>The Plans, the Hyundai, and Everything Else</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Doing This! Lufthansa and The Summer of Lost Luggage</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Why FRA is the Worst</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Back to the Roots—Michigan Revisited</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Marshall, Little Planes, Skydiving, Lynn</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>On the Road—Amanda, Twinkies, and Diet Mountain Dew</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Al's Oasis</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>In Praise of the National Park Service—Devil's Tower</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Keystone, Mount Rushmore</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>The World's Largest Popcorn Ball</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Motorcycles ... Sturgis (Dentists on Harleys)</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Camping for Dummies</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Bison and Begging Burros (Custer State Park)</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Riverside Hotel and Casino</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Fire Alarm</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Why Blackjack is the Best</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Captain Kirk in Bronze</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Homeward Bound</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Educational Chores</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_53"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Back to Reality</text>
+        </navLabel>
+        <content src="Text/Chapter_07.xhtml#sigil_toc_id_54"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-9" playOrder="9">
+    <navPoint id="navPoint-30" playOrder="30">
       <navLabel>
         <text>Chapter 8: Certifiably Crazy or Proposal in PDF</text>
       </navLabel>
       <content src="Text/Chapter_08.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-10" playOrder="10">
+    <navPoint id="navPoint-31" playOrder="31">
       <navLabel>
         <text>Chapter 9: I Should Have Gone to Law School</text>
       </navLabel>
       <content src="Text/Chapter_09.xhtml"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Introductory Notes (Anke)</text>
+        </navLabel>
+        <content src="Text/Chapter_09.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>The Prenuptial Agreement</text>
+        </navLabel>
+        <content src="Text/Chapter_09.xhtml#sigil_toc_id_2"/>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>Rationale for a Prenuptial Agreement (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_09.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>The Search for the Groom's Attorney (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_09.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>The Search for the Bride's Attorney (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_09.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>The Editing of the Prenuptial Agreement (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_09.xhtml#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>The Notarization and Execution of the Prenuptial Agreement (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_09.xhtml#sigil_toc_id_7"/>
+        </navPoint>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-11" playOrder="11">
+    <navPoint id="navPoint-39" playOrder="39">
       <navLabel>
         <text>Chapter 10: Vegas ...</text>
       </navLabel>
       <content src="Text/Chapter_10.xhtml"/>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>The Investigation of the Legalities of Getting Married in Las Vegas, Nevada</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_59"/>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>The Groom's Investigation (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_60"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>The Bride's Investigation (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_61"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>The Search for the Wedding Chapel (Dave)</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_62"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>The Marriage License (Dave)</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Travel to Las Vegas</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_64"/>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>The Groom's Travel to Las Vegas (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_65"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>The Bride's Travel to Las Vegas (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_66"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>The Wedding (Anke)</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_67"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>The Honeymoon</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_68"/>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>The High Roller</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_69"/>
+          <navPoint id="navPoint-51" playOrder="51">
+            <navLabel>
+              <text>The Groom's Thoughts on The High Roller (Dave)</text>
+            </navLabel>
+            <content src="Text/Chapter_10.xhtml#sigil_toc_id_70"/>
+          </navPoint>
+          <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+              <text>The Bride's Thoughts and Notes on The High Roller (Anke)</text>
+            </navLabel>
+            <content src="Text/Chapter_10.xhtml#sigil_toc_id_71"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>The Grand Canyon</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_18"/>
+          <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+              <text>The Groom's Thoughts and Notes on The Grand Canyon (Dave)</text>
+            </navLabel>
+            <content src="Text/Chapter_10.xhtml#sigil_toc_id_19"/>
+          </navPoint>
+          <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+              <text>The Bride's Thoughts and Notes on The Grand Canyon (Anke)</text>
+            </navLabel>
+            <content src="Text/Chapter_10.xhtml#sigil_toc_id_20"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>The Hoover Dam</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_56"/>
+          <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+              <text>The Groom's Thoughts and Notes on The Hoover Dam (Dave)</text>
+            </navLabel>
+            <content src="Text/Chapter_10.xhtml#sigil_toc_id_57"/>
+          </navPoint>
+          <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+              <text>The Bride's Thoughts and Notes on The Hoover Dam (Anke)</text>
+            </navLabel>
+            <content src="Text/Chapter_10.xhtml#sigil_toc_id_58"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-12" playOrder="12">
+    <navPoint id="navPoint-59" playOrder="59">
       <navLabel>
         <text>Chapter 11: The Adventure Begins (I-130 Submission)</text>
       </navLabel>
       <content src="Text/Chapter_11.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-13" playOrder="13">
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Chapter 12: Wills and Estate Planning</text>
+      </navLabel>
+      <content src="Text/Chapter_12.xhtml"/>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>The Search for an Estate Planning Attorney in the United States (Dave)</text>
+        </navLabel>
+        <content src="Text/Chapter_12.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Pre-Marriage Wills</text>
+        </navLabel>
+        <content src="Text/Chapter_12.xhtml#sigil_toc_id_22"/>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>The Pre-Marriage Will in the United States (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_12.xhtml#sigil_toc_id_23"/>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>The Pre-Marriage Will in Turkey (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_12.xhtml#sigil_toc_id_24"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Post-Marriage Wills</text>
+        </navLabel>
+        <content src="Text/Chapter_12.xhtml#sigil_toc_id_25"/>
+        <navPoint id="navPoint-66" playOrder="66">
+          <navLabel>
+            <text>The Post-Marriage Will in the United States (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_12.xhtml#sigil_toc_id_26"/>
+        </navPoint>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>The Post-Marriage Will in Turkey (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_12.xhtml#sigil_toc_id_27"/>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>The Post Marriage Will in the United States (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_12.xhtml#sigil_toc_id_28"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Living Wills</text>
+        </navLabel>
+        <content src="Text/Chapter_12.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Questions Related to Wills That Were Posed to an Attorney</text>
+        </navLabel>
+        <content src="Text/Chapter_12.xhtml#sigil_toc_id_30"/>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>Storage and Filing of a Will (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_12.xhtml#sigil_toc_id_31"/>
+        </navPoint>
+        <navPoint id="navPoint-72" playOrder="72">
+          <navLabel>
+            <text>Potential for Destruction of a Will in Order for a Heir to Gain an Advantage (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_12.xhtml#sigil_toc_id_32"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Other Estate Planning Issues</text>
+        </navLabel>
+        <content src="Text/Chapter_12.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
       <navLabel>
         <text>Index</text>
       </navLabel>
