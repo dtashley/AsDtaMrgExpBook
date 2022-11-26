@@ -49,7 +49,7 @@
     <itemref idref="Index.xhtml"/>
   </spine>
   <guide>
-    <reference type="index" title="Index" href="Text/Index.xhtml"/>
     <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
+    <reference type="index" title="Index" href="Text/Index.xhtml"/>
   </guide>
 </package>
