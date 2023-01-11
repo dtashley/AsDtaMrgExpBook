@@ -291,167 +291,323 @@
           <navLabel>
             <text>The Bride's Travel to Las Vegas (Anke)</text>
           </navLabel>
-          <content src="Text/Chapter_10.xhtml#sigil_toc_id_66"/>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_8"/>
         </navPoint>
       </navPoint>
       <navPoint id="navPoint-48" playOrder="48">
         <navLabel>
-          <text>The Wedding (Anke)</text>
+          <text>The Marriage License</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_9"/>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>The Marriage License (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_10"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>The Marriage License (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_11"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>The Wedding</text>
         </navLabel>
         <content src="Text/Chapter_10.xhtml#sigil_toc_id_67"/>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>The Wedding (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>The Wedding (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_13"/>
+        </navPoint>
       </navPoint>
-      <navPoint id="navPoint-49" playOrder="49">
+      <navPoint id="navPoint-54" playOrder="54">
         <navLabel>
           <text>The Honeymoon</text>
         </navLabel>
         <content src="Text/Chapter_10.xhtml#sigil_toc_id_68"/>
-        <navPoint id="navPoint-50" playOrder="50">
+        <navPoint id="navPoint-55" playOrder="55">
           <navLabel>
             <text>The High Roller</text>
           </navLabel>
           <content src="Text/Chapter_10.xhtml#sigil_toc_id_69"/>
-          <navPoint id="navPoint-51" playOrder="51">
+          <navPoint id="navPoint-56" playOrder="56">
             <navLabel>
               <text>The Groom's Thoughts on The High Roller (Dave)</text>
             </navLabel>
             <content src="Text/Chapter_10.xhtml#sigil_toc_id_70"/>
           </navPoint>
-          <navPoint id="navPoint-52" playOrder="52">
+          <navPoint id="navPoint-57" playOrder="57">
             <navLabel>
               <text>The Bride's Thoughts and Notes on The High Roller (Anke)</text>
             </navLabel>
             <content src="Text/Chapter_10.xhtml#sigil_toc_id_71"/>
           </navPoint>
         </navPoint>
-        <navPoint id="navPoint-53" playOrder="53">
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text></text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_56"/>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>The Hoover Dam</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_56"/>
+          <navPoint id="navPoint-60" playOrder="60">
+            <navLabel>
+              <text>The Bride's Thoughts and Notes on The Hoover Dam (Anke)</text>
+            </navLabel>
+            <content src="Text/Chapter_10.xhtml#sigil_toc_id_58"/>
+          </navPoint>
+          <navPoint id="navPoint-61" playOrder="61">
+            <navLabel>
+              <text>The Groom's Thoughts and Notes on The Hoover Dam (Dave)</text>
+            </navLabel>
+            <content src="Text/Chapter_10.xhtml#sigil_toc_id_57"/>
+          </navPoint>
+          <navPoint id="navPoint-62" playOrder="62">
+            <navLabel>
+              <text></text>
+            </navLabel>
+            <content src="Text/Chapter_10.xhtml#sigil_toc_id_58"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Flagstaff</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_14"/>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>Bride's Thoughts (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_15"/>
+        </navPoint>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>Groom's Throughts (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_16"/>
+        </navPoint>
+        <navPoint id="navPoint-66" playOrder="66">
           <navLabel>
             <text>The Grand Canyon</text>
           </navLabel>
           <content src="Text/Chapter_10.xhtml#sigil_toc_id_18"/>
-          <navPoint id="navPoint-54" playOrder="54">
+          <navPoint id="navPoint-67" playOrder="67">
             <navLabel>
               <text>The Groom's Thoughts and Notes on The Grand Canyon (Dave)</text>
             </navLabel>
             <content src="Text/Chapter_10.xhtml#sigil_toc_id_19"/>
           </navPoint>
-          <navPoint id="navPoint-55" playOrder="55">
+          <navPoint id="navPoint-68" playOrder="68">
             <navLabel>
               <text>The Bride's Thoughts and Notes on The Grand Canyon (Anke)</text>
             </navLabel>
             <content src="Text/Chapter_10.xhtml#sigil_toc_id_20"/>
           </navPoint>
         </navPoint>
-        <navPoint id="navPoint-56" playOrder="56">
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Las Vegas Before Departure</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_17"/>
+        <navPoint id="navPoint-70" playOrder="70">
           <navLabel>
-            <text>The Hoover Dam</text>
+            <text>Groom's Thoughts (Dave)</text>
           </navLabel>
-          <content src="Text/Chapter_10.xhtml#sigil_toc_id_56"/>
-          <navPoint id="navPoint-57" playOrder="57">
-            <navLabel>
-              <text>The Groom's Thoughts and Notes on The Hoover Dam (Dave)</text>
-            </navLabel>
-            <content src="Text/Chapter_10.xhtml#sigil_toc_id_57"/>
-          </navPoint>
-          <navPoint id="navPoint-58" playOrder="58">
-            <navLabel>
-              <text>The Bride's Thoughts and Notes on The Hoover Dam (Anke)</text>
-            </navLabel>
-            <content src="Text/Chapter_10.xhtml#sigil_toc_id_58"/>
-          </navPoint>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_55"/>
         </navPoint>
       </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Travel to Allen Park</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_72"/>
+        <navPoint id="navPoint-72" playOrder="72">
+          <navLabel>
+            <text>Groom's Thoughts (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_73"/>
+        </navPoint>
+        <navPoint id="navPoint-73" playOrder="73">
+          <navLabel>
+            <text>Bride's Thoughts (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_74"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Stay In Allen Park</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_75"/>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>Groom's Thoughts (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_76"/>
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>Bride's Thoughts (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_10.xhtml#sigil_toc_id_77"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Anke's Travel to Turkey (Anke)</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_78"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Dave's Questions about What to Put and Where</text>
+        </navLabel>
+        <content src="Text/Chapter_10.xhtml#sigil_toc_id_79"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-59" playOrder="59">
+    <navPoint id="navPoint-79" playOrder="79">
       <navLabel>
         <text>Chapter 11: The Adventure Begins (I-130 Submission)</text>
       </navLabel>
       <content src="Text/Chapter_11.xhtml"/>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Ordering and Waiting for the Certified Marriage Certificate</text>
+        </navLabel>
+        <content src="Text/Chapter_11.xhtml#sigil_toc_id_80"/>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>Bride's Remarks (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_11.xhtml#sigil_toc_id_81"/>
+        </navPoint>
+        <navPoint id="navPoint-82" playOrder="82">
+          <navLabel>
+            <text>Groom's Remarks (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_11.xhtml#sigil_toc_id_82"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Ordering and Waiting for the Apostille</text>
+        </navLabel>
+        <content src="Text/Chapter_11.xhtml#sigil_toc_id_83"/>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>Bride's Remarks (Anke)</text>
+          </navLabel>
+          <content src="Text/Chapter_11.xhtml#sigil_toc_id_84"/>
+        </navPoint>
+        <navPoint id="navPoint-85" playOrder="85">
+          <navLabel>
+            <text>Groom's Remarks (Dave)</text>
+          </navLabel>
+          <content src="Text/Chapter_11.xhtml#sigil_toc_id_85"/>
+        </navPoint>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-60" playOrder="60">
+    <navPoint id="navPoint-86" playOrder="86">
       <navLabel>
         <text>Chapter 12: Wills and Estate Planning</text>
       </navLabel>
       <content src="Text/Chapter_12.xhtml"/>
-      <navPoint id="navPoint-61" playOrder="61">
+      <navPoint id="navPoint-87" playOrder="87">
         <navLabel>
           <text>The Search for an Estate Planning Attorney in the United States (Dave)</text>
         </navLabel>
         <content src="Text/Chapter_12.xhtml#sigil_toc_id_21"/>
       </navPoint>
-      <navPoint id="navPoint-62" playOrder="62">
+      <navPoint id="navPoint-88" playOrder="88">
         <navLabel>
           <text>Pre-Marriage Wills</text>
         </navLabel>
         <content src="Text/Chapter_12.xhtml#sigil_toc_id_22"/>
-        <navPoint id="navPoint-63" playOrder="63">
+        <navPoint id="navPoint-89" playOrder="89">
           <navLabel>
             <text>The Pre-Marriage Will in the United States (Dave)</text>
           </navLabel>
           <content src="Text/Chapter_12.xhtml#sigil_toc_id_23"/>
         </navPoint>
-        <navPoint id="navPoint-64" playOrder="64">
+        <navPoint id="navPoint-90" playOrder="90">
           <navLabel>
             <text>The Pre-Marriage Will in Turkey (Anke)</text>
           </navLabel>
           <content src="Text/Chapter_12.xhtml#sigil_toc_id_24"/>
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-65" playOrder="65">
+      <navPoint id="navPoint-91" playOrder="91">
         <navLabel>
           <text>Post-Marriage Wills</text>
         </navLabel>
         <content src="Text/Chapter_12.xhtml#sigil_toc_id_25"/>
-        <navPoint id="navPoint-66" playOrder="66">
+        <navPoint id="navPoint-92" playOrder="92">
           <navLabel>
             <text>The Post-Marriage Will in the United States (Dave)</text>
           </navLabel>
           <content src="Text/Chapter_12.xhtml#sigil_toc_id_26"/>
         </navPoint>
-        <navPoint id="navPoint-67" playOrder="67">
+        <navPoint id="navPoint-93" playOrder="93">
           <navLabel>
             <text>The Post-Marriage Will in Turkey (Anke)</text>
           </navLabel>
           <content src="Text/Chapter_12.xhtml#sigil_toc_id_27"/>
         </navPoint>
-        <navPoint id="navPoint-68" playOrder="68">
+        <navPoint id="navPoint-94" playOrder="94">
           <navLabel>
             <text>The Post Marriage Will in the United States (Anke)</text>
           </navLabel>
           <content src="Text/Chapter_12.xhtml#sigil_toc_id_28"/>
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-69" playOrder="69">
+      <navPoint id="navPoint-95" playOrder="95">
         <navLabel>
           <text>Living Wills</text>
         </navLabel>
         <content src="Text/Chapter_12.xhtml#sigil_toc_id_29"/>
       </navPoint>
-      <navPoint id="navPoint-70" playOrder="70">
+      <navPoint id="navPoint-96" playOrder="96">
         <navLabel>
           <text>Questions Related to Wills That Were Posed to an Attorney</text>
         </navLabel>
         <content src="Text/Chapter_12.xhtml#sigil_toc_id_30"/>
-        <navPoint id="navPoint-71" playOrder="71">
+        <navPoint id="navPoint-97" playOrder="97">
           <navLabel>
             <text>Storage and Filing of a Will (Dave)</text>
           </navLabel>
           <content src="Text/Chapter_12.xhtml#sigil_toc_id_31"/>
         </navPoint>
-        <navPoint id="navPoint-72" playOrder="72">
+        <navPoint id="navPoint-98" playOrder="98">
           <navLabel>
             <text>Potential for Destruction of a Will in Order for a Heir to Gain an Advantage (Dave)</text>
           </navLabel>
           <content src="Text/Chapter_12.xhtml#sigil_toc_id_32"/>
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-73" playOrder="73">
+      <navPoint id="navPoint-99" playOrder="99">
         <navLabel>
           <text>Other Estate Planning Issues</text>
         </navLabel>
         <content src="Text/Chapter_12.xhtml#sigil_toc_id_33"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-74" playOrder="74">
+    <navPoint id="navPoint-100" playOrder="100">
       <navLabel>
         <text>Index</text>
       </navLabel>

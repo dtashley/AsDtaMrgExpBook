@@ -1,0 +1,6 @@
+﻿"Type","Description"
+"Error","E24010: Hyperlink not resolved in toc (One possible reason can be that the link points to a tag with style display:none):C:\Users\dashl\AppData\Local\Temp\c4a35494-f537-499c-a2ab-fed5119b1570\cTemp\mTemp\mbp_7E7_1_A_14_1D_2A_314_62AC_70D8_1\OEBPS\Text\Chapter_10.xhtml#sigil_toc_id_66","","","",""
+"Error","E24001: The table of content could not be built.","","","",""
+"Notice","W14001: Hyperlink not resolved:  C:\Users\dashl\AppData\Local\Temp\c4a35494-f537-499c-a2ab-fed5119b1570\cTemp\mTemp\mbp_7E7_1_A_14_1D_2A_314_62AC_70D8_1\OEBPS\Text\Chapter_10.xhtml#sigil_toc_id_66","","","",""
+"Notice","W14002: Some hyperlinks could not be resolved.","","","",""
+"Status","Book conversion failed."
